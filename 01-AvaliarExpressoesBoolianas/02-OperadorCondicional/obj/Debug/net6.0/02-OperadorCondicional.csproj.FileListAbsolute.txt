@@ -1,0 +1,15 @@
+C:\Users\Guilherme\Desktop\CSharp\AdicioneLogicaAoAplicativo\01-AvaliarExpressoesBoolianas\02-OperadorCondicional\bin\Debug\net6.0\02-OperadorCondicional.exe
+C:\Users\Guilherme\Desktop\CSharp\AdicioneLogicaAoAplicativo\01-AvaliarExpressoesBoolianas\02-OperadorCondicional\bin\Debug\net6.0\02-OperadorCondicional.deps.json
+C:\Users\Guilherme\Desktop\CSharp\AdicioneLogicaAoAplicativo\01-AvaliarExpressoesBoolianas\02-OperadorCondicional\bin\Debug\net6.0\02-OperadorCondicional.runtimeconfig.json
+C:\Users\Guilherme\Desktop\CSharp\AdicioneLogicaAoAplicativo\01-AvaliarExpressoesBoolianas\02-OperadorCondicional\bin\Debug\net6.0\02-OperadorCondicional.dll
+C:\Users\Guilherme\Desktop\CSharp\AdicioneLogicaAoAplicativo\01-AvaliarExpressoesBoolianas\02-OperadorCondicional\bin\Debug\net6.0\02-OperadorCondicional.pdb
+C:\Users\Guilherme\Desktop\CSharp\AdicioneLogicaAoAplicativo\01-AvaliarExpressoesBoolianas\02-OperadorCondicional\obj\Debug\net6.0\02-OperadorCondicional.csproj.AssemblyReference.cache
+C:\Users\Guilherme\Desktop\CSharp\AdicioneLogicaAoAplicativo\01-AvaliarExpressoesBoolianas\02-OperadorCondicional\obj\Debug\net6.0\02-OperadorCondicional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guilherme\Desktop\CSharp\AdicioneLogicaAoAplicativo\01-AvaliarExpressoesBoolianas\02-OperadorCondicional\obj\Debug\net6.0\02-OperadorCondicional.AssemblyInfoInputs.cache
+C:\Users\Guilherme\Desktop\CSharp\AdicioneLogicaAoAplicativo\01-AvaliarExpressoesBoolianas\02-OperadorCondicional\obj\Debug\net6.0\02-OperadorCondicional.AssemblyInfo.cs
+C:\Users\Guilherme\Desktop\CSharp\AdicioneLogicaAoAplicativo\01-AvaliarExpressoesBoolianas\02-OperadorCondicional\obj\Debug\net6.0\02-OperadorCondicional.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\Desktop\CSharp\AdicioneLogicaAoAplicativo\01-AvaliarExpressoesBoolianas\02-OperadorCondicional\obj\Debug\net6.0\02-OperadorCondicional.dll
+C:\Users\Guilherme\Desktop\CSharp\AdicioneLogicaAoAplicativo\01-AvaliarExpressoesBoolianas\02-OperadorCondicional\obj\Debug\net6.0\refint\02-OperadorCondicional.dll
+C:\Users\Guilherme\Desktop\CSharp\AdicioneLogicaAoAplicativo\01-AvaliarExpressoesBoolianas\02-OperadorCondicional\obj\Debug\net6.0\02-OperadorCondicional.pdb
+C:\Users\Guilherme\Desktop\CSharp\AdicioneLogicaAoAplicativo\01-AvaliarExpressoesBoolianas\02-OperadorCondicional\obj\Debug\net6.0\02-OperadorCondicional.genruntimeconfig.cache
+C:\Users\Guilherme\Desktop\CSharp\AdicioneLogicaAoAplicativo\01-AvaliarExpressoesBoolianas\02-OperadorCondicional\obj\Debug\net6.0\ref\02-OperadorCondicional.dll
