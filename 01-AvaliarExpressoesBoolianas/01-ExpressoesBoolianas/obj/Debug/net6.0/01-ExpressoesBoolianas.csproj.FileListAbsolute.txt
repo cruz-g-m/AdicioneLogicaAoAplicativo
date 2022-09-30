@@ -1,0 +1,15 @@
+C:\Users\Guilherme\Desktop\CSharp\AdicioneLogicaAoAplicativo\01-AvaliarExpressoesBoolianas\01-ExpressoesBoolianas\bin\Debug\net6.0\01-ExpressoesBoolianas.exe
+C:\Users\Guilherme\Desktop\CSharp\AdicioneLogicaAoAplicativo\01-AvaliarExpressoesBoolianas\01-ExpressoesBoolianas\bin\Debug\net6.0\01-ExpressoesBoolianas.deps.json
+C:\Users\Guilherme\Desktop\CSharp\AdicioneLogicaAoAplicativo\01-AvaliarExpressoesBoolianas\01-ExpressoesBoolianas\bin\Debug\net6.0\01-ExpressoesBoolianas.runtimeconfig.json
+C:\Users\Guilherme\Desktop\CSharp\AdicioneLogicaAoAplicativo\01-AvaliarExpressoesBoolianas\01-ExpressoesBoolianas\bin\Debug\net6.0\01-ExpressoesBoolianas.dll
+C:\Users\Guilherme\Desktop\CSharp\AdicioneLogicaAoAplicativo\01-AvaliarExpressoesBoolianas\01-ExpressoesBoolianas\bin\Debug\net6.0\01-ExpressoesBoolianas.pdb
+C:\Users\Guilherme\Desktop\CSharp\AdicioneLogicaAoAplicativo\01-AvaliarExpressoesBoolianas\01-ExpressoesBoolianas\obj\Debug\net6.0\01-ExpressoesBoolianas.csproj.AssemblyReference.cache
+C:\Users\Guilherme\Desktop\CSharp\AdicioneLogicaAoAplicativo\01-AvaliarExpressoesBoolianas\01-ExpressoesBoolianas\obj\Debug\net6.0\01-ExpressoesBoolianas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guilherme\Desktop\CSharp\AdicioneLogicaAoAplicativo\01-AvaliarExpressoesBoolianas\01-ExpressoesBoolianas\obj\Debug\net6.0\01-ExpressoesBoolianas.AssemblyInfoInputs.cache
+C:\Users\Guilherme\Desktop\CSharp\AdicioneLogicaAoAplicativo\01-AvaliarExpressoesBoolianas\01-ExpressoesBoolianas\obj\Debug\net6.0\01-ExpressoesBoolianas.AssemblyInfo.cs
+C:\Users\Guilherme\Desktop\CSharp\AdicioneLogicaAoAplicativo\01-AvaliarExpressoesBoolianas\01-ExpressoesBoolianas\obj\Debug\net6.0\01-ExpressoesBoolianas.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\Desktop\CSharp\AdicioneLogicaAoAplicativo\01-AvaliarExpressoesBoolianas\01-ExpressoesBoolianas\obj\Debug\net6.0\01-ExpressoesBoolianas.dll
+C:\Users\Guilherme\Desktop\CSharp\AdicioneLogicaAoAplicativo\01-AvaliarExpressoesBoolianas\01-ExpressoesBoolianas\obj\Debug\net6.0\refint\01-ExpressoesBoolianas.dll
+C:\Users\Guilherme\Desktop\CSharp\AdicioneLogicaAoAplicativo\01-AvaliarExpressoesBoolianas\01-ExpressoesBoolianas\obj\Debug\net6.0\01-ExpressoesBoolianas.pdb
+C:\Users\Guilherme\Desktop\CSharp\AdicioneLogicaAoAplicativo\01-AvaliarExpressoesBoolianas\01-ExpressoesBoolianas\obj\Debug\net6.0\01-ExpressoesBoolianas.genruntimeconfig.cache
+C:\Users\Guilherme\Desktop\CSharp\AdicioneLogicaAoAplicativo\01-AvaliarExpressoesBoolianas\01-ExpressoesBoolianas\obj\Debug\net6.0\ref\01-ExpressoesBoolianas.dll
